@@ -1,0 +1,13 @@
+{
+    "name": "smth/ajax-authentication-bundle",
+    "description": "",
+    "type":"symfony-bundle",
+    "keywords": [""],
+    "homepage": "https://github.com/vas3a/ajaxAuthenticationBundle.git",
+    "autoload": {
+        "psr-0": { "Smth\\AjaxAuthBundle": "" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
