@@ -11,21 +11,13 @@ Instalation:
     ...
     "repositories":[
         {
-            "type": "package",
-            "package": {
-                "name": "smth/ajax-auth-bundle",
-                "version": "dev-master",
-                "source": {
-                    "url": "https://github.com/vas3a/ajaxAuthenticationBundle.git",
-                    "type": "git",
-                    "reference":"master"
-                }
-            }
+            "type": "vcs",
+            "url": "git://github.com/vas3a/ajaxAuthenticationBundle.git"
         }
     ],
     "require":{
         ...
-        "smth/ajax-auth-bundle": "dev-master",
+        "smth/ajax-authentication-bundle":"dev-master"
     }
 }
 ```
