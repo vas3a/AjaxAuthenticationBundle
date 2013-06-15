@@ -12,7 +12,7 @@ Instalation:
     "repositories":[
         {
             "type": "vcs",
-            "url": "git://github.com/vas3a/ajaxAuthenticationBundle.git"
+            "url": "git://github.com/vas3a/AjaxAuthenticationBundle.git"
         }
     ],
     "require":{
