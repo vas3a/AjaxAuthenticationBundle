@@ -78,7 +78,7 @@ First, add a service in your services.yml:
 ```yaml
 // YourBundle/Resources/config/services.yml
 parameters:
-    registration.handler.class: Namespace\YourBundle\Authentication\UserRegisterHandler
+    registration.handler.class: Namespace\YourBundle\Authentication\UserRegistrationHandler
 
 services:
     registration.handler:
